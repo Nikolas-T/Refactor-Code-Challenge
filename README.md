@@ -1,1 +1,1 @@
-# Homework
+Refactored code that adds accessibility alt attributes and a descriptive title
